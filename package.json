@@ -1,0 +1,8 @@
+{
+  "name": "react-native-application-info",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:leoek/react-native-application-info.git",
+  "author": "Leonard Krause <leonard@matchwerk.de>",
+  "license": "MIT"
+}
